@@ -9,11 +9,8 @@ git push -u origin master
 ```
 
 ```
-#添加
 git add . 
-#提交
-git commit -m "备注信息" 
-#发布到master
+git commit -m "up" 
 git push -u origin master
 ```
 
