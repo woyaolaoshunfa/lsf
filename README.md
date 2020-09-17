@@ -12,5 +12,7 @@ git push -u origin master
 git add . 
 git commit -m "up" 
 git push -u origin master
+#同步下载
+git pull origin master 
 ```
 
