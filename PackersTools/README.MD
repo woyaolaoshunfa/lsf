@@ -4,11 +4,7 @@
 
 ### ①​ Shielden(SE)
 
-下载地址：
-
-[官网下载 Release 版](http://www.safengine.com/download/release.zip)
-
-[精简](./files/Shielden.rar)
+下载地址：[精简版](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/Shielden.rar)
 
 ##### 简单使用 :1st_place_medal:
 
@@ -27,7 +23,7 @@
 
 ### ② Aspack2.12 
 
-下载地址：[Aspack2.12](./files/Aspack.rar)
+下载地址：[Aspack2.12](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/ASpack.rar)
 
 > 下载后将文件夹解压，
 >
@@ -37,7 +33,7 @@
 
 ### ③ ASProtect 
 
-下载地址：[ASProtect](./files/ASProtect.rar)
+下载地址：[ASProtect](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/ASProtect.rar)
 
 > 下载后将文件夹解压，
 >
@@ -59,7 +55,7 @@
 
 ### ④ PECompact
 
-下载地址：[PECompact](./files/pecompact.rar)
+下载地址：[PECompact](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/pecompact.rar)
 
 > 下载后将文件夹解压，
 >
@@ -73,7 +69,7 @@
 
 ### ⑤ PETitl 
 
-下载地址：[PETitl ](./files/petitl22.rar)
+下载地址：[PETitl ](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/petitl22.rar)
 
 > 下载后运行 PETGUI.EXE
 >
@@ -97,7 +93,7 @@
 
 ### ⑥ VMProtect 
 
-低版本Demo版下载地址：[VMProtect ](./files/VMProtect.rar)
+低版本Demo版下载地址：[VMProtect ](https://github.com/woyaolaoshunfa/lsf/raw/master/PackersTools/files/VMProtect.rar)
 
 > *如无法使用，或使用报毒，可取去 [爱盘](https://down.52pojie.cn/Tools/Packers/) 下载其他版本*
 
